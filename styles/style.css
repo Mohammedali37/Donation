@@ -1,0 +1,163 @@
+.header-container {
+    /*background-image: url('../images/donation1.jpg');*/
+    border: 2px solid black;
+    padding: 25px;
+    background: url('../images/donation1.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-bottom: 100px;
+}
+nav{
+    margin-bottom: 300px;
+}
+.nav-title {
+    margin-top: 150px;
+    text-align: center;
+    color: white;
+    text-align-last: center;
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+.nav-des{
+    text-align-last:center;
+    color: white;
+    font-size: 18px;
+}
+.btn-primary{
+    background-color: red;
+    padding: 10px 15px;
+    color: aliceblue;
+    margin-left:520px;
+    font-size: 18px;
+}
+.btn-primary1{
+    background-color: red;
+    padding: 10px 15px;
+    color: aliceblue;
+    font-size: 18px;
+}
+.btn-group{
+    margin-left:450px;
+    margin-bottom:100px;
+}
+.btn-group .button{
+    padding: 10px 15px;
+    font-size: 18px;
+    mrgin-left: 40px;
+    border: none;
+    color: rgb(105, 102, 102);
+    text-align: center;
+    text-decoration:none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    float: left;
+}
+.btn-group .button:hover{
+    background-color: #3e8e41;
+}
+.today-title{
+    text-align: center;
+    font-size: 30px;
+}
+.today-des{
+    text-align: center;
+    font-size: 18px;
+}
+/*our donate plan*/
+.plan-title{
+    text-align: center;
+    font-size: 30px;
+}
+.plan-des{
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 50px;
+}
+.about-plan{
+    display: flex;
+    max-width: 1200px;
+    justify-content: space-evenly;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+}
+.plan-container{
+    background-color: lightblue;
+    margin-left: 10px;
+}
+.plan-container1{
+    background-color: lightpink;
+    margin-left: 10px;
+}
+.plan-container2{
+    background-color: lightgoldenrodyellow;
+    margin-left: 10px;
+}
+.plan-img , .pan-con-title , .plan-des-title{
+    margin-left: 15px;
+}
+.donation1{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 170px;
+    justify-content: space-between;
+    margin-bottom: 150px;
+}
+.donation1-title{
+    font-size: 25px;
+}
+.donation1-img{
+    width:440px;
+    margin-left: 15px;
+    margin-right: 25px;
+}
+.donation1-des{
+    text-align: left;
+    font-size: 18px;
+}
+.foot{
+    text-align: center;
+    font-size: 30px;
+}
+.foot-para{
+    text-align: center;
+    font-size: 18px;
+}
+.main-foot{
+    background-color: lightblue;
+    border-radius: 10px;
+    height:200px;
+    width: 800px;
+    margin-left:250px;
+}
+.div{
+    display: flex;
+}
+.input-title{
+    color: aliceblue;
+    margin-left:170px;
+    font-size: 32px;
+    margin-top:80px;
+}
+.btn-primary2{
+/*background-color: red;*/
+    color: rgb(2, 6, 10);
+    padding-top: 7px;
+    padding-bottom:7px;
+    margin-top:80px;
+    font-size: 20px;
+    background-color: lightcoral;
+}
+.last-nav{
+    background-color: black;
+    height:200px;
+    padding: 0 0;
+    border-radius: 10px;
+}
+.last-title{
+    color: lightcoral;
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 80px;
+}
